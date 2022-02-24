@@ -1,10 +1,8 @@
 {
   "name": "edupolydashboard",
   "version": "0.0.0",
-  "scripts": {
-    
-    "start": "node server",
-   
+  "scripts": {    
+    "start": "node server"   
   },
   "private": true,
   "dependencies": {
